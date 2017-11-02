@@ -1,7 +1,7 @@
 # Exercise-2
 In this exercise, you'll practice resolving a merge conflict.
 
-> Warning!
+> 	Frankly, my dear, I don't give a damn.
 
 For this exercise, complete the following steps:
 
